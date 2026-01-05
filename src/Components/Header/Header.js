@@ -6,7 +6,7 @@ function Header() {
   return (
     <div className="header">
       <img src={meme} alt="" />
-      <h1>Meme Generator</h1>
+      <h1>New Meme Generator</h1>
       <p>...get that meme</p>
     </div>
   );
