@@ -47,7 +47,7 @@ function Body() {
           value={memeData.secondText}
           onChange={handleChange}
         />
-        <button onClick={getMemeImage}>Get Meme Images</button>
+        <button onClick={getMemeImage}>Get new Meme Images</button>
       </div>
 
       <div className="meme">
